@@ -6,8 +6,8 @@
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| 211041099  |  Ana Catarina Santos |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 21/1041099  |  Ana Catarina Santos |
+| 20/0043030  |  Renann de Oliveira Gomes |
 
 ## Sobre 
 
@@ -16,7 +16,7 @@ Este projeto consiste na resolução de um problema específico de grafos do Lee
 | Problema | Descrição                    | Nível de Dificuldade |
 |----------|------------------------------|-----------------------|
 | 2699     | Modificar Pesos das Arestas do Grafo | Difícil                |
-
+| 882     | Reachable Nodes In Subdivided Graph | Difícil                |
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
